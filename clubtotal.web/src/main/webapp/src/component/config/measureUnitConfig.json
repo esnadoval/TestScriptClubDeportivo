@@ -1,0 +1,9 @@
+{
+    "displayName" : "MeasureUnit",
+    "name" : "measureUnit",
+    "templateName" : "measureUnit",
+    "url" : "user.html",
+    "server": "localhost:8080",
+    "context": "/clubtotal.web/webresources/MeasureUnit",
+    "el" : "#main"
+}
